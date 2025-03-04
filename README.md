@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Frontend Development
 - 💞️ I’m looking to collaborate on Building projects
 - 📫 How to reach me on https://x.com/jaycoin01
-- 😄 Pronouns: we
 - ⚡ Fun fact: I love coding and reading books
 
 <!---
