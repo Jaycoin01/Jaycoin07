@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jaycoin01
+- 👋 Hi, I’m @Jaycoin07
 - 👀 I’m interested in WEB3 Jobs
 - 🌱 I’m currently Blockchain Development
 - 💞️ I’m looking to collaborate on Building projects
