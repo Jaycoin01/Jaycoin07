@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jaycoin07
 - 👀 I’m interested in WEB3 Jobs
-- 🌱 I’m currently Blockchain Development
+- 🌱 I’m currently learning Blockchain Development
 - 💞️ I’m looking to collaborate on Building projects
-- 📫 How to reach me on https://x.com/jaycoin07
+- 📫 You can reach me on https://x.com/jaycoin07
 - ⚡ Fun fact: I love coding and reading books
 
 <!---
